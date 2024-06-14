@@ -1,4 +1,4 @@
-# stefaniadamata
+comando  git pul# stefaniadamata
 #stefaniadamata https://github.com/teffinha3m/stefaniadamata.git
 git##Gravando mundaça no repositório
 ## Salvando modificaçoes no git
