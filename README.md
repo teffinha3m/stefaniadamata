@@ -4,3 +4,4 @@ git##Gravando mundaça no repositório
 ## Salvando modificaçoes no git
 ## Salvando alteraçoes do Git
 ## Git pull
+## comando git fetch
